@@ -216,19 +216,19 @@ Outbound is a system. Optimize based on data, not intuition.
 ---
 
 **Summary Principles (Non-Negotiable)**
-  Targeting > Personalization
-  Relevance > Volume
-  Follow-up > First email
-  Clarity > Creativity
-  System > Random effort
+  - Targeting > Personalization
+  - Relevance > Volume
+  - Follow-up > First email
+  - Clarity > Creativity
+  - System > Random effort
 
 ---
 
 **Recommended Baseline Metrics**
-  Open Rate: 40–60%
-  Reply Rate: 5–15%
-  Positive Reply: 2–8%
-  Meetings Booked: 1–5%
+  - Open Rate: 40–60%
+  - Reply Rate: 5–15%
+  - Positive Reply: 2–8%
+  - Meetings Booked: 1–5%
 
 ---
 
@@ -278,20 +278,20 @@ Case 3: ROI in Cold Emails
 
 ## 4. What I Rejected and Why
 Idea 1: Aggressive Follow-Ups (10+ emails)
-•	Source: High-volume outbound tactics
-•	Why Rejected:
-    - Increases spam risk
-    - Damages brand perception
-    - No strong data supporting effectiveness beyond early touches
+• Source: High-volume outbound tactics
+• Why Rejected:
+  - Increases spam risk
+  - Damages brand perception
+  - No strong data supporting effectiveness beyond early touches
 
 ---
 
 Idea 2: Fully Automated Outreach
-•	Source: Automation-first growth strategies
-•	Why Rejected:
-    - Low-quality engagement
-    - Easily detected as spam
-    - Not suitable for high-value B2B sales
+• Source: Automation-first growth strategies
+• Why Rejected:
+  - Low-quality engagement
+  - Easily detected as spam
+  - Not suitable for high-value B2B sales
 
 ---
 
@@ -337,4 +337,3 @@ High-Volume Outbound Influencers
 ## Conclusion
 This playbook prioritizes data-backed decision-making, clarity, and scalability. It intentionally avoids trend-driven tactics in favor of approaches supported by large datasets and practical execution realities.
 Its effectiveness depends on disciplined implementation, continuous testing, and adaptation to specific market contexts.
-
